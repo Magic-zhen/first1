@@ -10,4 +10,8 @@ public class ServletInitializer extends SpringBootServletInitializer {
         return application.sources(Springbootjsp1Application.class);
     }
 
+    public static void main(String[] args) {
+
+    }
+
 }
